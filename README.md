@@ -213,8 +213,3 @@ Through this project, I learned:
 
 **Vidya G E**
 
----
-
-## 📜 License
-
-This project is developed for **educational and learning purposes**.
