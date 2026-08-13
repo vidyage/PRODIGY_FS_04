@@ -1,0 +1,17 @@
+[
+  {
+    "id": "general",
+    "name": "General",
+    "description": "General discussion room"
+  },
+  {
+    "id": "technology",
+    "name": "Technology",
+    "description": "Technology and programming discussions"
+  },
+  {
+    "id": "e1d63791-e633-4132-b56e-142c36442666",
+    "name": "project discussion",
+    "description": "Discussion about our project"
+  }
+]
